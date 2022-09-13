@@ -8,7 +8,8 @@ Projeto inicial para criação de carteira com endereço e chave privada usando:
 
 ## Para executar
 - OBS: Estar conectado à rede para criaçao da carteira na rede 'testnet'
-- Na raiz do projeto executar os comandos:
+
+### Na raiz do projeto executar os comandos:
 
 ```
 npm install
