@@ -1,4 +1,6 @@
 # Curso de Blockchain da DIO
+
+## Projeto node-create-wallet
 Projeto inicial para criação de carteira com endereço e chave privada usando:
 
 - NodeJS (16)
@@ -6,7 +8,7 @@ Projeto inicial para criação de carteira com endereço e chave privada usando:
 - Bip39
 - Bitcoinjs-lib
 
-## Para executar
+## - Para executar
 - OBS: Estar conectado à rede para criação da carteira na rede 'testnet'
 
 ### Na raiz do projeto executar os comandos:
@@ -16,7 +18,6 @@ npm install
 ```
 
 Após instaladas as dependências do projeto, executar:
-
 
 ```
 node create-wallet.js
