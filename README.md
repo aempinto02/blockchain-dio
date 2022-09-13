@@ -1,4 +1,6 @@
 # Curso de Blockchain da DIO
+
+## Projeto node-create-wallet
 Projeto inicial para criação de carteira com endereço e chave privada usando:
 
 - NodeJS (16)
